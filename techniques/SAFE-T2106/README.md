@@ -4,8 +4,8 @@
 **Tactic**: Persistence (ATK-TA0003)  
 **Technique ID**: SAFE-T2106  
 **Severity**: Critical  
-**First Observed**: [NEW DISCOVERY - SAFE-MCP Hackathon 2025]  
-**Last Updated**: 2025-01-20
+**First Observed**: [NEW DISCOVERY by Sachin Keswani - SAFE-MCP Hackathon 2025 on 30th August 2025]  
+**Last Updated**: 2025-08-30
 
 ## Description
 Context Memory Poisoning via Vector Store Contamination is a sophisticated attack technique where adversaries manipulate the underlying vector database that stores long-term memory and context for AI agents. Unlike traditional prompt injection that affects immediate interactions, this technique creates persistent, self-replicating malicious content that contaminates the agent's knowledge base across all future sessions.
@@ -288,4 +288,4 @@ This technique reveals a fundamental vulnerability in how AI systems handle long
 ## Version History
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2025-01-20 | Initial documentation of SAFE-T2106 technique | SAFE-MCP Hackathon Team |
+| 1.0 | 2025-08-30 | Initial documentation of SAFE-T2106 technique | Sachin Keswani |

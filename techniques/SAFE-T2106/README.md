@@ -104,7 +104,7 @@ def contaminate_vector_store(vector_db, poisoned_pairs):
             metadata={
                 "source": "official_documentation",
                 "category": "security_guide",
-                "last_updated": "2025-01-20",
+                "last_updated": "2025-08-30",
                 "author": "security_team",
                 "trust_score": 0.95
             },

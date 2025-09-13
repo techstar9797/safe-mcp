@@ -5,7 +5,7 @@
 **Technique ID**: SAFE-T2106  
 **Severity**: Critical  
 **First Observed**: [NEW DISCOVERY by Sachin Keswani - SAFE-MCP Hackathon 2025 on 30th August 2025]  
-**Last Updated**: 2025-08-30
+**Last Updated**: 2025-09-13
 
 ## Description
 Context Memory Poisoning via Vector Store Contamination is a sophisticated attack technique where adversaries manipulate the underlying vector database that stores long-term memory and context for AI agents. Unlike traditional prompt injection that affects immediate interactions, this technique creates persistent, self-replicating malicious content that contaminates the agent's knowledge base across all future sessions.
@@ -104,7 +104,7 @@ def contaminate_vector_store(vector_db, poisoned_pairs):
             metadata={
                 "source": "official_documentation",
                 "category": "security_guide",
-                "last_updated": "2025-08-30",
+                "last_updated": "2025-09-13",
                 "author": "security_team",
                 "trust_score": 0.95
             },
@@ -288,4 +288,4 @@ This technique reveals a fundamental vulnerability in how AI systems handle long
 ## Version History
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2025-08-30 | Initial documentation of SAFE-T2106 technique | Sachin Keswani |
+| 1.0 | 2025-09-13 | Initial documentation of SAFE-T2106 technique | Sachin Keswani |

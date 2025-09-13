@@ -5,7 +5,7 @@
 **Category**: Detective Control  
 **Effectiveness**: Medium-High  
 **Implementation Complexity**: Medium  
-**First Published**: 2025-08-30
+**First Published**: 2025-09-13
 
 ## Description
 Continuous Vector Store Monitoring is a detective control that provides real-time monitoring and alerting for suspicious activities in vector databases. This mitigation detects potential contamination attempts by monitoring embedding patterns, access patterns, and content anomalies.
@@ -59,4 +59,4 @@ class VectorStoreMonitor:
 ## Version History
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2025-08-30 | Initial documentation | Sachin Keswani |
+| 1.0 | 2025-09-13 | Initial documentation | Sachin Keswani |

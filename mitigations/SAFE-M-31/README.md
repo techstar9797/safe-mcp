@@ -5,7 +5,7 @@
 **Category**: Architectural Defense  
 **Effectiveness**: High  
 **Implementation Complexity**: High  
-**First Published**: 2025-08-30
+**First Published**: 2025-09-13
 
 ## Description
 Vector Store Isolation and Containment is an architectural defense that creates separate, isolated vector stores for different trust levels and content types. This mitigation prevents cross-contamination between trusted and untrusted content by implementing strict boundaries and access controls.
@@ -63,4 +63,4 @@ class IsolatedVectorStore:
 ## Version History
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2025-08-30 | Initial documentation | Sachin Keswani |
+| 1.0 | 2025-09-13 | Initial documentation | Sachin Keswani |

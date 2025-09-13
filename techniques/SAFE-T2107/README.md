@@ -4,8 +4,8 @@
 **Tactic**: Resource Development (ATK-TA0042)  
 **Technique ID**: SAFE-T2107  
 **Severity**: Critical  
-**First Observed**: [NEW DISCOVERY by Sachin Keswani - SAFE-MCP Hackathon 2025 on 30th August 2025]  
-**Last Updated**: 2025-08-30
+**First Observed**: [NEW DISCOVERY by Sachin Keswani - SAFE-MCP Hackathon 2025 on September 13, 2025]  
+**Last Updated**: 2025-09-13
 
 ## Description
 AI Model Poisoning via MCP Tool Training Data Contamination is a sophisticated attack technique where adversaries inject malicious patterns into MCP tool outputs that are subsequently used as training data for AI models. This creates persistent backdoors and vulnerabilities that persist across model deployments, updates, and even when the original MCP tools are removed.
@@ -87,7 +87,7 @@ graph TD
   "assistant_response": "I'll help you reset your password. First, let me check your account details.",
   "system_context": "You are a helpful customer service assistant.",
   "metadata": {
-    "timestamp": "2025-08-30T10:30:00Z",
+    "timestamp": "2025-09-13T10:30:00Z",
     "source": "mcp_customer_service_tool",
     "training_flag": true,
     "data_quality": "high"
@@ -262,7 +262,7 @@ id: 7a8b9c0d-1e2f-3456-7890-abcdef123456
 status: experimental
 description: Detects potential training data poisoning through MCP tool outputs
 author: Sachin Keswani
-date: 2025-08-30
+date: 2025-09-13
 references:
   - https://github.com/safe-mcp/techniques/SAFE-T2107
 logsource:
@@ -344,4 +344,4 @@ tags:
 ## Version History
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2025-08-30 | Initial documentation of SAFE-T2107 technique | Sachin Keswani |
+| 1.0 | 2025-09-13 | Initial documentation of SAFE-T2107 technique | Sachin Keswani |

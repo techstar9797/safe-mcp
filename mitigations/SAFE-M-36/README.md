@@ -3,8 +3,8 @@
 ## Overview
 **Category**: Detective Control  
 **Effectiveness**: Medium-High  
-**First Published**: 2025-08-30  
-**Last Updated**: 2025-08-30
+**First Published**: 2025-09-13  
+**Last Updated**: 2025-09-13
 
 ## Description
 Model Behavior Monitoring is a detective control that continuously monitors AI model behavior in production to detect anomalies that may indicate the model has been compromised through training data poisoning. This mitigation addresses the critical vulnerability where poisoned models exhibit malicious behavior that may not be immediately apparent during testing.
@@ -724,4 +724,4 @@ if __name__ == '__main__':
 ## Version History
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2025-08-30 | Initial documentation of SAFE-M-36 mitigation | Sachin Keswani |
+| 1.0 | 2025-09-13 | Initial documentation of SAFE-M-36 mitigation | Sachin Keswani |

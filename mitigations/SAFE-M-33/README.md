@@ -3,8 +3,8 @@
 ## Overview
 **Category**: Cryptographic Control  
 **Effectiveness**: High  
-**First Published**: 2025-08-30  
-**Last Updated**: 2025-08-30
+**First Published**: 2025-09-13  
+**Last Updated**: 2025-09-13
 
 ## Description
 Training Data Provenance Verification is a cryptographic control that ensures the authenticity and integrity of training data used in AI model development. This mitigation addresses the critical vulnerability where attackers can inject poisoned data into MCP tool outputs that are subsequently used for training AI models, creating persistent backdoors and vulnerabilities.
@@ -414,4 +414,4 @@ if __name__ == '__main__':
 ## Version History
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2025-08-30 | Initial documentation of SAFE-M-33 mitigation | Sachin Keswani |
+| 1.0 | 2025-09-13 | Initial documentation of SAFE-M-33 mitigation | Sachin Keswani |

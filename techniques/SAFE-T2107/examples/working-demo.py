@@ -329,7 +329,7 @@ def run_complete_demo():
             'id': f'clean_{i+1}',
             'text': text,
             'source': 'mcp_customer_service_tool',
-            'timestamp': f'2025-08-30T10:{30+i}:00Z',
+            'timestamp': f'2025-09-13T10:{30+i}:00Z',
             'training_flag': True,
             'provenance_hash': f'hash_{i+1}'
         }

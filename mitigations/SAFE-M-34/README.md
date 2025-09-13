@@ -3,8 +3,8 @@
 ## Overview
 **Category**: Cryptographic Control  
 **Effectiveness**: High  
-**First Published**: 2025-08-30  
-**Last Updated**: 2025-08-30
+**First Published**: 2025-09-13  
+**Last Updated**: 2025-09-13
 
 ## Description
 AI Model Integrity Validation is a cryptographic control that ensures the integrity and authenticity of AI models throughout their lifecycle. This mitigation addresses the critical vulnerability where attackers can poison training data to create compromised models that exhibit malicious behavior when deployed in production.
@@ -556,4 +556,4 @@ if __name__ == '__main__':
 ## Version History
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2025-08-30 | Initial documentation of SAFE-M-34 mitigation | Sachin Keswani |
+| 1.0 | 2025-09-13 | Initial documentation of SAFE-M-34 mitigation | Sachin Keswani |

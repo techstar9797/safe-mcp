@@ -5,7 +5,7 @@
 **Category**: Cryptographic Control  
 **Effectiveness**: High  
 **Implementation Complexity**: Medium  
-**First Published**: 2025-08-30
+**First Published**: 2025-09-13
 
 ## Description
 Vector Store Integrity Verification is a cryptographic control that ensures the authenticity and integrity of embeddings stored in vector databases used by MCP servers. This mitigation prevents attackers from inserting or modifying malicious embeddings by requiring cryptographic signatures for all vector store operations.
@@ -185,4 +185,4 @@ class SecureVectorStore:
 ## Version History
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2025-08-30 | Initial documentation | Sachin Keswani |
+| 1.0 | 2025-09-13 | Initial documentation | Sachin Keswani |

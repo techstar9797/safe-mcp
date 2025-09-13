@@ -3,8 +3,8 @@
 ## Overview
 **Category**: Input Validation  
 **Effectiveness**: Medium-High  
-**First Published**: 2025-08-30  
-**Last Updated**: 2025-08-30
+**First Published**: 2025-09-13  
+**Last Updated**: 2025-09-13
 
 ## Description
 Adversarial Training Data Detection is an input validation control that uses machine learning techniques to identify and filter poisoned training data before it can contaminate AI models. This mitigation addresses the critical vulnerability where attackers inject malicious patterns into MCP tool outputs that are subsequently used for training AI models.
@@ -558,4 +558,4 @@ if __name__ == '__main__':
 ## Version History
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2025-08-30 | Initial documentation of SAFE-M-35 mitigation | Sachin Keswani |
+| 1.0 | 2025-09-13 | Initial documentation of SAFE-M-35 mitigation | Sachin Keswani |

@@ -1,6 +1,6 @@
 # SAFE-T2106 Examples
 
-This directory contains working examples and demonstrations of the **SAFE-T2106: Context Memory Poisoning via Vector Store Contamination** technique discovered by Sachin Keswani during the SAFE-MCP Hackathon 2025.
+This directory contains working examples and demonstrations of the **SAFE-T2106: Context Memory Poisoning via Vector Store Contamination** technique discovered by Sachin Keswani.
 
 ## Files
 

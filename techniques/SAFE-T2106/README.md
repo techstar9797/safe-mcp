@@ -4,7 +4,7 @@
 **Tactic**: Persistence (ATK-TA0003)  
 **Technique ID**: SAFE-T2106  
 **Severity**: Critical  
-**First Observed**: [NEW DISCOVERY by Sachin Keswani - SAFE-MCP Hackathon 2025 on 30th August 2025]  
+**First Observed**: September 13, 2025 (Discovered by Sachin Keswani)  
 **Last Updated**: 2025-09-13
 
 ## Description

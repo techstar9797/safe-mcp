@@ -4,7 +4,7 @@
 **Tactic**: Resource Development (ATK-TA0042)  
 **Technique ID**: SAFE-T2107  
 **Severity**: Critical  
-**First Observed**: [NEW DISCOVERY by Sachin Keswani - SAFE-MCP Hackathon 2025 on September 13, 2025]  
+**First Observed**: September 13, 2025 (Discovered by Sachin Keswani)  
 **Last Updated**: 2025-09-13
 
 ## Description

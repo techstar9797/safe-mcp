@@ -1,6 +1,6 @@
 # SAFE-T2107 Examples
 
-This directory contains working examples and demonstrations of the **SAFE-T2107: AI Model Poisoning via MCP Tool Training Data Contamination** technique discovered by Sachin Keswani during the SAFE-MCP Hackathon 2025.
+This directory contains working examples and demonstrations of the **SAFE-T2107: AI Model Poisoning via MCP Tool Training Data Contamination** technique discovered by Sachin Keswani.
 
 ## Overview
 
@@ -64,7 +64,7 @@ These examples are for educational and research purposes only. They demonstrate 
 
 ## Author
 
-**Sachin Keswani** - SAFE-MCP Hackathon 2025 Winner
+**Sachin Keswani** - Security Researcher
 - Discovery Date: August 30, 2025
 - Technique: SAFE-T2107
 - Mitigations: SAFE-M-33 through SAFE-M-36

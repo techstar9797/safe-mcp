@@ -60,25 +60,29 @@ SAFE-MCP mitigations are security controls designed to protect Model Context Pro
 | [SAFE-M-30](mitigations/SAFE-M-30/README.md) | Embedding Sanitization and Validation | Input Validation | Medium-High |
 | [SAFE-M-31](mitigations/SAFE-M-31/README.md) | Vector Store Isolation and Containment | Architectural Defense | High |
 | [SAFE-M-32](mitigations/SAFE-M-32/README.md) | Continuous Vector Store Monitoring | Detective Control | Medium-High |
+| [SAFE-M-33](mitigations/SAFE-M-33/README.md) | Training Data Provenance Verification | Cryptographic Control | High |
+| [SAFE-M-34](mitigations/SAFE-M-34/README.md) | AI Model Integrity Validation | Cryptographic Control | High |
+| [SAFE-M-35](mitigations/SAFE-M-35/README.md) | Adversarial Training Data Detection | Input Validation | Medium-High |
+| [SAFE-M-36](mitigations/SAFE-M-36/README.md) | Model Behavior Monitoring | Detective Control | Medium-High |
 
 ## Summary Statistics
 
-- **Total Mitigations**: 32
-- **High Effectiveness**: 14 (50%)
-- **Medium-High Effectiveness**: 7 (25%)
-- **Medium Effectiveness**: 7 (25%)
+- **Total Mitigations**: 36
+- **High Effectiveness**: 18 (50%)
+- **Medium-High Effectiveness**: 9 (25%)
+- **Medium Effectiveness**: 9 (25%)
 - **Low Effectiveness**: 0 (0%)
 
 ## Category Distribution
 
 | Category | Number of Mitigations |
 |----------|---------------------|
-| Detective Control | 7 |
+| Detective Control | 9 |
 | Preventive Control | 6 |
-| Input Validation | 5 |
+| Input Validation | 7 |
 | Architectural Defense | 3 |
 | UI Security | 2 |
-| Cryptographic Control | 2 |
+| Cryptographic Control | 4 |
 | AI-Based Defense | 1 |
 | Supply Chain Security | 2 |
 | Isolation and Containment | 1 |
